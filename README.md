@@ -13,6 +13,8 @@ This api was built with by a developer as a take_home project for MOD 4 2311, fr
 
 <details>
   <summary>Setup</summary>
+  ```
+
   1. Fork and/or Clone this Repo from GitHub.
   2. In your terminal use `$ git clone <ssh or https path>`.
   3. Change into the cloned directory using `$ cd example`.
