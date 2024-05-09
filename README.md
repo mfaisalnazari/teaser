@@ -22,20 +22,20 @@ This api was built with by a developer as a take_home project for MOD 4 2311, fr
   5. Database Migrations can be set up by running: 
 
   $ rails db:{drop,create,migrate,seed}
-  ```
+
 </details>
 
 
 <details>
   <summary>Testing</summary>
-
+```
   Test using the terminal utilizing RSpec:
 
-  ```bash
   $ bundle exec rspec spec/<follow directory path to test specific files>
-  ```
+  
 
   or test the whole suite with `$ bundle exec rspec`
+  
 </details>
 
 
